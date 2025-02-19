@@ -1,0 +1,344 @@
+﻿
+*** START OF THE PROJECT GUTENBERG EBOOK 75297 ***
+
+                             RECONNAISSANCE
+                                   AU
+                                =MAROC=
+
+
+                     TABLE DES PLANCHES DE L’ATLAS
+
+                               * * * * *
+
+
+  Tableau d’assemblage et indication des signes
+  conventionnels                                                  No 0
+
+  Itinéraire, dessiné par l’auteur et gravé par
+  M. PERRIN. 20 feuilles au 1/250.000                       Nos 1 à 20
+
+  Carte d’ensemble, dessinée par Hansen, gravée
+  par ERHARD et publiée par la Société de Géographie             No 21
+
+                               * * * * *
+               TYPOGRAPHIE FIRMIN-DIDOT. — MESNIL (EURE).
+
+
+
+
+                       =VICOMTE CH. DE FOUCAULD.=
+                               * * * * *
+
+                             RECONNAISSANCE
+                                   AU
+                                =MAROC=
+                               1883-1884
+
+         OUVRAGE ILLUSTRÉ DE 4 PHOTOGRAVURES ET DE 101 DESSINS
+                    D’APRÈS LES CROQUIS DE L’AUTEUR
+
+                               * * * * *
+                                 ATLAS
+                               * * * * *
+
+                                =PARIS=
+                       CHALLAMEL ET CIE, ÉDITEURS
+                          LIBRAIRIE COLONIALE
+                  5, RUE JACOB, ET RUE FURSTENBERG, 2
+                               * * * * *
+                                  1888
+
+
+
+
+[Illustration : RECONNAISSANCE AU MAROC par le Vicomte Ch. de
+Foucauld 1883-1884.
+
+TABLEAU D’ASSEMBLAGE
+
+Reconnaissance au Maroc — Atlas.
+
+_Dessiné par J. Hansen._
+
+Challamel aîné, Editeur. — Paris.
+
+_Gravé par Mce. Perrin._]
+
+
+[Illustration : CHECHAOUEN
+
+Reconnaissance au Maroc — Vte. Ch. de Foucauld — Atlas.
+
+Échelle de 1:250.000 — Feuille 1.
+
+_Gravé par Maurice Perrin, 34, rue des Boulangers. Paris._
+
+CHALLAMEL AÎNÉ, EDITEUR, PARIS.
+
+_Imp. F. Menetrier, 7, r. Blainville. Paris._]
+
+
+[Illustration : OUAD SEBOU
+
+Reconnaissance au Maroc — Vte. Ch. de Foucauld — Atlas.
+
+Échelle de 1:250.000 — Feuille 2.
+
+_Gravé par Maurice Perrin, 34, rue des Boulangers. Paris._
+
+CHALLAMEL AÎNÉ, EDITEUR, PARIS.
+
+_Imp. F. Menetrier, 7, r. Blainville. Paris._]
+
+
+[Illustration : MEKNÂS
+
+Reconnaissance au Maroc — Vte. Ch. de Foucauld — Atlas.
+
+Échelle de 1:250.000 — Feuille 3.
+
+_Gravé par Maurice Perrin, 34, rue des Boulangers. Paris._
+
+CHALLAMEL AÎNÉ, EDITEUR, PARIS.
+
+_Imp. F. Menetrier, 7, r. Blainville. Paris._]
+
+
+[Illustration : TÂZA
+
+Reconnaissance au Maroc — Vte. Ch. de Foucauld — Atlas.
+
+Échelle de 1:250.000 — Feuille 4.
+
+_Gravé par Maurice Perrin. Paris._
+
+CHALLAMEL AÎNÉ, EDITEUR, PARIS.
+
+_Imp. F. Menetrier, 7, r. Blainville. Paris._]
+
+
+[Illustration : BOU EL DJẠD
+
+Reconnaissance au Maroc — Vte. Ch. de Foucauld — Atlas.
+
+Échelle de 1:250.000 — Feuille 5.
+
+_Gravé par Maurice Perrin, 34, rue des Boulangers. Paris._
+
+CHALLAMEL AÎNÉ, EDITEUR, PARIS.
+
+_Imp. F. Menetrier, 7, r. Blainville. Paris._]
+
+
+[Illustration : OUAD EL ẠBID
+
+Reconnaissance au Maroc — Vte. Ch. de Foucauld — Atlas.
+
+Échelle de 1:250.000 — Feuille 6.
+
+_Gravé par Maurice Perrin. Paris._
+
+CHALLAMEL AÎNÉ, EDITEUR, PARIS.
+
+_Imp. F. Menetrier, 7, r. Blainville. Paris._]
+
+
+[Illustration : TIZI N GLAOUI (GD ATLAS)
+
+Reconnaissance au Maroc — Vte. Ch. de Foucauld — Atlas.
+
+Échelle de 1:250.000 — Feuille 7.
+
+_Gravé par Maurice Perrin, 34, rue des Boulangers. Paris._
+
+CHALLAMEL AÎNÉ, EDITEUR, PARIS.
+
+_Imp. F. Menetrier, 7, r. Blainville. Paris._]
+
+
+[Illustration : MEZGÎṬA (OUAD DRA)
+
+Reconnaissance au Maroc — Vte. Ch. de Foucauld — Atlas.
+
+Échelle de 1:250.000 — Feuille 8.
+
+_Gravé par Maurice Perrin._
+
+CHALLAMEL AÎNÉ, EDITEUR, PARIS.
+
+_Imp. F. Menetrier, 7, r. Blainville. Paris._]
+
+
+[Illustration : TISINT
+
+Reconnaissance au Maroc — Vte. Ch. de Foucauld — Atlas.
+
+Échelle de 1:250.000 — Feuille 9.
+
+_Gravé par Maurice Perrin, 34, rue des Boulangers. Paris._
+
+CHALLAMEL AÎNÉ, EDITEUR, PARIS.
+
+_Imp. F. Menetrier, 7, r. Blainville. Paris._]
+
+
+[Illustration : TATTA
+
+Reconnaissance au Maroc — Vte. Ch. de Foucauld — Atlas.
+
+Échelle de 1:250.000 — Feuille 10.
+
+_Gravé par Maurice Perrin, 34, rue des Boulangers. Paris._
+
+CHALLAMEL AÎNÉ, EDITEUR, PARIS.
+
+_Imp. F. Menetrier, 7, r. Blainville. Paris._]
+
+
+[Illustration : TIZI IBERQAQEN
+
+Reconnaissance au Maroc — Vte. Ch. de Foucauld — Atlas.
+
+Échelle de 1:250.000 — Feuille 11.
+
+_Gravé par Maurice Perrin._
+
+CHALLAMEL AÎNÉ, EDITEUR, PARIS.
+
+_Imp. F. Menetrier, 7, r. Blainville. Paris._]
+
+
+[Illustration : AGADIR IṚIR
+
+Reconnaissance au Maroc — Vte. Ch. de Foucauld — Atlas.
+
+Échelle de 1:250.000 — Feuille 12.
+
+_Gravé par Maurice Perrin. Paris._
+
+CHALLAMEL AÎNÉ, EDITEUR, PARIS.
+
+_Imp. F. Menetrier, 7, r. Blainville. Paris._]
+
+
+[Illustration : MOGADOR
+
+Reconnaissance au Maroc — Vte. Ch. de Foucauld — Atlas.
+
+Échelle de 1:250.000 — Feuille 13.
+
+_Gravé par Maurice Perrin, 34, rue des Boulangers. Paris._
+
+CHALLAMEL AÎNÉ, EDITEUR, PARIS.
+
+_Imp. F. Menetrier, 7, r. Blainville. Paris._]
+
+
+[Illustration : RAS EL OUAD (OUAD SOUS)
+
+Reconnaissance au Maroc — Vte. Ch. de Foucauld — Atlas.
+
+Échelle de 1:250.000 — Feuille 14.
+
+_Gravé par Maurice Perrin. Paris._
+
+CHALLAMEL AÎNÉ, EDITEUR, PARIS.
+
+_Imp. F. Menetrier, 7, r. Blainville. Paris._]
+
+
+[Illustration : DÂDES
+
+Reconnaissance au Maroc — Vte. Ch. de Foucauld — Atlas.
+
+Échelle de 1:250.000 — Feuille 15.
+
+_Gravé par Maurice Perrin, 34, rue des Boulangers. Paris._
+
+CHALLAMEL AÎNÉ, EDITEUR, PARIS.
+
+_Imp. F. Menetrier, 7, r. Blainville. Paris._]
+
+
+[Illustration : TODṚA
+
+Reconnaissance au Maroc — Vte. Ch. de Foucauld — Atlas.
+
+Échelle de 1:250.000 — Feuille 16.
+
+_Gravé par Maurice Perrin. Paris._
+
+CHALLAMEL AÎNÉ, EDITEUR, PARIS.
+
+_Imp. F. Menetrier, 7, r. Blainville. Paris._]
+
+
+[Illustration : TIZI N TELṚEMT
+
+Reconnaissance au Maroc — Vte. Ch. de Foucauld — Atlas.
+
+Échelle de 1:250.000 — Feuille 17.
+
+_Gravé par Maurice Perrin, 34, rue des Boulangers. Paris._
+
+CHALLAMEL AÎNÉ, EDITEUR, PARIS.
+
+_Imp. F. Menetrier, 7, r. Blainville. Paris._]
+
+
+[Illustration : OUAD MLOUÏA
+
+Reconnaissance au Maroc — Vte. Ch. de Foucauld — Atlas.
+
+Échelle de 1:250.000 — Feuille 18.
+
+_Gravé par Maurice Perrin. Paris._
+
+CHALLAMEL AÎNÉ, EDITEUR, PARIS.
+
+_Imp. F. Menetrier, 7, r. Blainville. Paris._]
+
+
+[Illustration : DEBDOU
+
+Reconnaissance au Maroc — Vte. Ch. de Foucauld — Atlas.
+
+Échelle de 1:250.000 — Feuille 19.
+
+_Gravé par Maurice Perrin, 34, rue des Boulangers. Paris._
+
+CHALLAMEL AÎNÉ, EDITEUR, PARIS.
+
+_Imp. F. Menetrier, 7, r. Blainville. Paris._]
+
+
+[Illustration : OUDJDA
+
+Reconnaissance au Maroc — Vte. Ch. de Foucauld — Atlas.
+
+Échelle de 1:250.000 — Feuille 20.
+
+_Gravé par Maurice Perrin. Paris._
+
+CHALLAMEL AÎNÉ, EDITEUR, PARIS.
+
+_Imp. F. Menetrier, 7, r. Blainville. Paris._]
+
+
+[Illustration : ITINÉRAIRES AU MAROC par le Vicomte Charles de
+Foucauld 1883-1884
+
+Réduction des cartes manuscrites du voyageur.
+
+Extrait du Bulletin de la Société de Géographie Vicomte Ch. de
+Foucauld. Reconnaissance au Maroc Pl. XXI. du 1er. Trimestre 1887.
+
+Dessiné par J. Hansen.
+
+Challamel et Cie. Editeurs. 5 rue Jacob. Paris.
+
+Gravé et imprimé par Erhard, 35bis. R. Denfert-Rochereau.]
+
+
+
+*** END OF THE PROJECT GUTENBERG EBOOK 75297 ***
